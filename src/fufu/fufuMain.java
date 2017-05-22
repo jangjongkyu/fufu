@@ -18,6 +18,6 @@ public class fufuMain {
 		System.out.println("fufu main!!");
 		System.out.println("ppark ");
 		System.out.println("plzzzzzzz"
-				+ "asdsadasdasd");
+				+ "asdsadasdasasdasdd");
 	}
 }
