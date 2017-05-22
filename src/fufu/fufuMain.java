@@ -7,7 +7,7 @@ public class fufuMain {
 		System.out.println("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
 	/*testtest*/
 	/*fffffffffffffffffffffffffffffffff*/
-		
+/*gaasgagasasfasfafasfaf*/
 	
 	}
 }
