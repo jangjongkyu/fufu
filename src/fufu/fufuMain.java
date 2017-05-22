@@ -8,6 +8,7 @@ public class fufuMain {
 	/*testtest*/
 	/*fffffffffffffffffffffffffffffffff*/
 /*gaasgagasasfasfafasfaf*/
+		System.out.println("GGGGGGGGGGGGGGGGGGG");
 	
 	}
 }
